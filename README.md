@@ -1,17 +1,7 @@
 # ASIC
 Learning of ASIC Design and Opensource 
 
-[Klayout]:               https://www.klayout.de/
-[Magic]:                 http://opencircuitdesign.com/magic/
-[Netgen]:                http://opencircuitdesign.com/netgen/
-[Qflow]:                 http://opencircuitdesign.com/qflow/history.html
-[Ngspice]:               http://ngspice.sourceforge.net/
-[Xyce]:                  http://xyce.sandia.gov/
-[Git]:                   https://git-scm.com/
-[FreePDK45]:             https://www.eda.ncsu.edu/wiki/FreePDK45:Contents
-[SCMOS]:                 https://www.mosis.com/files/scmos/scmos.pdf
-[Sky130]:                https://github.com/google/skywater-pdk-libs-sky130_fd_bd_sram.git
-[Github project]:        https://github.com/VLSIDA/OpenRAM
+
 
 
 
